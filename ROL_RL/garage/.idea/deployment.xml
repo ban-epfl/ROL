@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@127.0.0.1:8000 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="root@10.90.50.17:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.50.18:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.50.2:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.50.5:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.50.7:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.52.10:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.52.10:31170 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.52.3:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.52.7:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.52.7:31170 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.90.53.9:31170">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@127.0.0.1:8000 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/venv/lib/python3.6/site-packages/garage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
